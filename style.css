@@ -17,7 +17,7 @@ h2{
     text-align: center;
 }
 
-p{
+p{  
     color: black ;
     font-size: 30px;
     text-align: justify;
@@ -37,4 +37,8 @@ p{
     padding: 3px;
     border: 0.5rem solid  #2c3546;
     border-radius: 24px;
- }
+ }    margin: 10px;
+ padding: 3px;
+ border: 0.5rem solid  #2c3546;
+ border-radius: 24px;
+}
